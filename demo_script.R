@@ -1,6 +1,5 @@
 # Headline
 
-<<<<<<< HEAD
 x <- rnorm(500)
 y <- rnorn(500)
 
