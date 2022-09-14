@@ -12,3 +12,8 @@ y <- rnorn(500)
 # New feature
 
 # Crazy stuff
+
+# Important feature
+
+# An alternative way forward (new branch)
+
